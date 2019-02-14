@@ -1445,7 +1445,7 @@
             "ja": ""
         },
         "category": "Berries",
-        "effect": "Drastically calms a Pokémon in battle, in Let's Go Pikachu/Eevee."
+        "effect": "Drastically calms a Pokémon in battle, in Let's Go Pikachu\/Eevee."
     },
     {
         "name": {
@@ -1757,7 +1757,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Flash/Defog/Whirlpool/Waterfall."
+        "effect": "Teaches the move Flash\/Defog\/Whirlpool\/Waterfall."
     },
     {
         "name": {
@@ -1765,7 +1765,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Whirlpool/Rock Smash/Dive."
+        "effect": "Teaches the move Whirlpool\/Rock Smash\/Dive."
     },
     {
         "name": {
@@ -1781,7 +1781,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Dive/Rock Climb."
+        "effect": "Teaches the move Dive\/Rock Climb."
     },
     {
         "name": {
@@ -2621,7 +2621,7 @@
             "ja": ""
         },
         "category": "Berries",
-        "effect": "A Berry to be used in cooking. Calms a Pokémon in battle, in Let's Go Pikachu/Eevee."
+        "effect": "A Berry to be used in cooking. Calms a Pokémon in battle, in Let's Go Pikachu\/Eevee."
     },
     {
         "name": {
@@ -3885,7 +3885,7 @@
             "ja": ""
         },
         "category": "Berries",
-        "effect": "Greatly calms a Pokémon in battle, in Let's Go Pikachu/Eevee."
+        "effect": "Greatly calms a Pokémon in battle, in Let's Go Pikachu\/Eevee."
     },
     {
         "name": {
@@ -4045,7 +4045,7 @@
             "ja": ""
         },
         "category": "Hold items",
-        "effect": "Increases the power of Psychic- and Dragon-type moves when held by Latios or Latias. Increases Sp.Atk/Sp.Def prior to Gen 7."
+        "effect": "Increases the power of Psychic- and Dragon-type moves when held by Latios or Latias. Increases Sp.Atk\/Sp.Def prior to Gen 7."
     },
     {
         "name": {
@@ -4325,7 +4325,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Mega Punch/Dynamic Punch/Focus Punch/Hone Claws/Work Up/Headbutt."
+        "effect": "Teaches the move Mega Punch\/Dynamic Punch\/Focus Punch\/Hone Claws\/Work Up\/Headbutt."
     },
     {
         "name": {
@@ -4333,7 +4333,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Razor Wind/Headbutt/Dragon Claw/Taunt."
+        "effect": "Teaches the move Razor Wind\/Headbutt\/Dragon Claw\/Taunt."
     },
     {
         "name": {
@@ -4341,7 +4341,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Swords Dance/Curse/Water Pulse/Psyshock/Helping Hand."
+        "effect": "Teaches the move Swords Dance\/Curse\/Water Pulse\/Psyshock\/Helping Hand."
     },
     {
         "name": {
@@ -4349,7 +4349,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Whirlwind/Rollout/Calm Mind/Teleport."
+        "effect": "Teaches the move Whirlwind\/Rollout\/Calm Mind\/Teleport."
     },
     {
         "name": {
@@ -4357,7 +4357,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Mega Kick/Roar/Rest."
+        "effect": "Teaches the move Mega Kick\/Roar\/Rest."
     },
     {
         "name": {
@@ -4365,7 +4365,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Toxic/Light Screen."
+        "effect": "Teaches the move Toxic\/Light Screen."
     },
     {
         "name": {
@@ -4373,7 +4373,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Horn Drill/Zap Cannon/Hail/Protect."
+        "effect": "Teaches the move Horn Drill\/Zap Cannon\/Hail\/Protect."
     },
     {
         "name": {
@@ -4381,7 +4381,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Body Slam/Rock Smash/Bulk Up/Substitute."
+        "effect": "Teaches the move Body Slam\/Rock Smash\/Bulk Up\/Substitute."
     },
     {
         "name": {
@@ -4389,7 +4389,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Take Down/Psych Up/Bullet Seed/Venoshock/Reflect."
+        "effect": "Teaches the move Take Down\/Psych Up\/Bullet Seed\/Venoshock\/Reflect."
     },
     {
         "name": {
@@ -4397,7 +4397,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Double-Edge/Hidden Power/Dig."
+        "effect": "Teaches the move Double-Edge\/Hidden Power\/Dig."
     },
     {
         "name": {
@@ -4413,7 +4413,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move BubbleBeam/Sunny Day/Will-O-Wisp."
+        "effect": "Teaches the move BubbleBeam\/Sunny Day\/Will-O-Wisp."
     },
     {
         "name": {
@@ -4421,7 +4421,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Water Gun/Sweet Scent/Taunt/Facade."
+        "effect": "Teaches the move Water Gun\/Sweet Scent\/Taunt\/Facade."
     },
     {
         "name": {
@@ -4429,7 +4429,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Snore/Ice Beam/Brick Break."
+        "effect": "Teaches the move Snore\/Ice Beam\/Brick Break."
     },
     {
         "name": {
@@ -4437,7 +4437,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Blizzard/Fly."
+        "effect": "Teaches the move Blizzard\/Fly."
     },
     {
         "name": {
@@ -4445,7 +4445,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Hyper Beam/Seismic Toss."
+        "effect": "Teaches the move Hyper Beam\/Seismic Toss."
     },
     {
         "name": {
@@ -4453,7 +4453,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Pay Day/Icy Wind/Light Screen/Thunder Wave."
+        "effect": "Teaches the move Pay Day\/Icy Wind\/Light Screen\/Thunder Wave."
     },
     {
         "name": {
@@ -4461,7 +4461,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Submission/Protect/Dragon Tail."
+        "effect": "Teaches the move Submission\/Protect\/Dragon Tail."
     },
     {
         "name": {
@@ -4469,7 +4469,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Counter/Rain Dance/U-turn."
+        "effect": "Teaches the move Counter\/Rain Dance\/U-turn."
     },
     {
         "name": {
@@ -4477,7 +4477,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Seismic Toss/Giga Drain/Telekinesis/Roost/Iron Tail."
+        "effect": "Teaches the move Seismic Toss\/Giga Drain\/Telekinesis\/Roost\/Iron Tail."
     },
     {
         "name": {
@@ -4485,7 +4485,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Rage/Endure/Safeguard/Dark Pulse."
+        "effect": "Teaches the move Rage\/Endure\/Safeguard\/Dark Pulse."
     },
     {
         "name": {
@@ -4493,7 +4493,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Mega Drain/Frustration/Foul Play."
+        "effect": "Teaches the move Mega Drain\/Frustration\/Foul Play."
     },
     {
         "name": {
@@ -4501,7 +4501,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move SolarBeam/Rock Slide."
+        "effect": "Teaches the move SolarBeam\/Rock Slide."
     },
     {
         "name": {
@@ -4509,7 +4509,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Dragon Rage/Iron Tail/Smack Down/Thunder Punch."
+        "effect": "Teaches the move Dragon Rage\/Iron Tail\/Smack Down\/Thunder Punch."
     },
     {
         "name": {
@@ -4517,7 +4517,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Thunderbolt/DragonBreath/X-Scissor."
+        "effect": "Teaches the move Thunderbolt\/DragonBreath\/X-Scissor."
     },
     {
         "name": {
@@ -4525,7 +4525,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Thunder/Waterfall."
+        "effect": "Teaches the move Thunder\/Waterfall."
     },
     {
         "name": {
@@ -4533,7 +4533,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Earthquake/Poison Jab."
+        "effect": "Teaches the move Earthquake\/Poison Jab."
     },
     {
         "name": {
@@ -4541,7 +4541,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Fissure/Return/Toxic."
+        "effect": "Teaches the move Fissure\/Return\/Toxic."
     },
     {
         "name": {
@@ -4549,7 +4549,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Dig/Leech Life/Tri Attack."
+        "effect": "Teaches the move Dig\/Leech Life\/Tri Attack."
     },
     {
         "name": {
@@ -4557,7 +4557,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Psychic/Scald."
+        "effect": "Teaches the move Psychic\/Scald."
     },
     {
         "name": {
@@ -4565,7 +4565,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Teleport/Shadow Ball/Bulk Up."
+        "effect": "Teaches the move Teleport\/Shadow Ball\/Bulk Up."
     },
     {
         "name": {
@@ -4573,7 +4573,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Mimic/Mud-Slap/Brick Break/Fire Punch."
+        "effect": "Teaches the move Mimic\/Mud-Slap\/Brick Break\/Fire Punch."
     },
     {
         "name": {
@@ -4581,7 +4581,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Double Team/Dazzling Gleam."
+        "effect": "Teaches the move Double Team\/Dazzling Gleam."
     },
     {
         "name": {
@@ -4589,7 +4589,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Ice Punch/Reflect/Calm Mind."
+        "effect": "Teaches the move Ice Punch\/Reflect\/Calm Mind."
     },
     {
         "name": {
@@ -4597,7 +4597,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Bide/Swagger/Shock Wave/Sludge Wave/Dragon Pulse."
+        "effect": "Teaches the move Bide\/Swagger\/Shock Wave\/Sludge Wave\/Dragon Pulse."
     },
     {
         "name": {
@@ -4605,7 +4605,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Metronome/Sleep Talk/Flamethrower/Ice Punch."
+        "effect": "Teaches the move Metronome\/Sleep Talk\/Flamethrower\/Ice Punch."
     },
     {
         "name": {
@@ -4613,7 +4613,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Selfdestruct/Sludge Bomb/Thunderbolt."
+        "effect": "Teaches the move Selfdestruct\/Sludge Bomb\/Thunderbolt."
     },
     {
         "name": {
@@ -4621,7 +4621,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Egg Bomb/Sandstorm/Flamethrower."
+        "effect": "Teaches the move Egg Bomb\/Sandstorm\/Flamethrower."
     },
     {
         "name": {
@@ -4629,7 +4629,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Fire Blast/Thunder."
+        "effect": "Teaches the move Fire Blast\/Thunder."
     },
     {
         "name": {
@@ -4637,7 +4637,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Swift/Rock Tomb/Outrage."
+        "effect": "Teaches the move Swift\/Rock Tomb\/Outrage."
     },
     {
         "name": {
@@ -4645,7 +4645,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Skull Bash/Defense Curl/Aerial Ace/Psychic."
+        "effect": "Teaches the move Skull Bash\/Defense Curl\/Aerial Ace\/Psychic."
     },
     {
         "name": {
@@ -4653,7 +4653,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Softboiled/ThunderPunch/Torment/Earthquake."
+        "effect": "Teaches the move Softboiled\/ThunderPunch\/Torment\/Earthquake."
     },
     {
         "name": {
@@ -4661,7 +4661,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Dream Eater/Facade/Self-Destruct."
+        "effect": "Teaches the move Dream Eater\/Facade\/Self-Destruct."
     },
     {
         "name": {
@@ -4669,7 +4669,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Sky Attack/Detect/Secret Power/Flame Charge/Shadow Ball."
+        "effect": "Teaches the move Sky Attack\/Detect\/Secret Power\/Flame Charge\/Shadow Ball."
     },
     {
         "name": {
@@ -4677,7 +4677,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Rest/Play Rough."
+        "effect": "Teaches the move Rest\/Play Rough."
     },
     {
         "name": {
@@ -4685,7 +4685,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Thunder Wave/Attract/Solar Beam."
+        "effect": "Teaches the move Thunder Wave\/Attract\/Solar Beam."
     },
     {
         "name": {
@@ -4693,7 +4693,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Psywave/Thief/Fire Blast."
+        "effect": "Teaches the move Psywave\/Thief\/Fire Blast."
     },
     {
         "name": {
@@ -4701,7 +4701,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Explosion/Steel Wing/Low Sweep/Surf."
+        "effect": "Teaches the move Explosion\/Steel Wing\/Low Sweep\/Surf."
     },
     {
         "name": {
@@ -4709,7 +4709,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Rock Slide/Fire Punch/Skill Swap/Round/Hyper Beam."
+        "effect": "Teaches the move Rock Slide\/Fire Punch\/Skill Swap\/Round\/Hyper Beam."
     },
     {
         "name": {
@@ -4717,7 +4717,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Tri Attack/Fury Cutter/Snatch/Echoed Voice/Superpower."
+        "effect": "Teaches the move Tri Attack\/Fury Cutter\/Snatch\/Echoed Voice\/Superpower."
     },
     {
         "name": {
@@ -4725,7 +4725,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Substitute/Nightmare/Overheat/Roost."
+        "effect": "Teaches the move Substitute\/Nightmare\/Overheat\/Roost."
     },
     {
         "name": {
@@ -4733,7 +4733,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Roost/Ally Switch/Steel Wing/Blizzard."
+        "effect": "Teaches the move Roost\/Ally Switch\/Steel Wing\/Blizzard."
     },
     {
         "name": {
@@ -4741,7 +4741,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Focus Blast/Sludge Bomb."
+        "effect": "Teaches the move Focus Blast\/Sludge Bomb."
     },
     {
         "name": {
@@ -4749,7 +4749,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Energy Ball/Mega Drain."
+        "effect": "Teaches the move Energy Ball\/Mega Drain."
     },
     {
         "name": {
@@ -4757,7 +4757,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move False Swipe/Flash Cannon."
+        "effect": "Teaches the move False Swipe\/Flash Cannon."
     },
     {
         "name": {
@@ -4765,7 +4765,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Brine/Scald/Ice Beam."
+        "effect": "Teaches the move Brine\/Scald\/Ice Beam."
     },
     {
         "name": {
@@ -4773,7 +4773,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Fling/Stealth Rock."
+        "effect": "Teaches the move Fling\/Stealth Rock."
     },
     {
         "name": {
@@ -4781,7 +4781,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Charge Beam/Pay Day."
+        "effect": "Teaches the move Charge Beam\/Pay Day."
     },
     {
         "name": {
@@ -4789,7 +4789,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Endure/Sky Drop/Drill Run."
+        "effect": "Teaches the move Endure\/Sky Drop\/Drill Run."
     },
     {
         "name": {
@@ -4797,7 +4797,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Dragon Pulse/Incinerate/Brutal Swing/Dream Eater."
+        "effect": "Teaches the move Dragon Pulse\/Incinerate\/Brutal Swing\/Dream Eater."
     },
     {
         "name": {
@@ -4805,7 +4805,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Drain Punch/Quash/Megahorn."
+        "effect": "Teaches the move Drain Punch\/Quash\/Megahorn."
     },
     {
         "name": {
@@ -4821,7 +4821,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Silver Wind/Acrobatics."
+        "effect": "Teaches the move Silver Wind\/Acrobatics."
     },
     {
         "name": {
@@ -4861,7 +4861,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Recycle/Retaliate/Smart Strike."
+        "effect": "Teaches the move Recycle\/Retaliate\/Smart Strike."
     },
     {
         "name": {
@@ -4885,7 +4885,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Flash/Aurora Veil."
+        "effect": "Teaches the move Flash\/Aurora Veil."
     },
     {
         "name": {
@@ -4901,7 +4901,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Avalanche/Volt Switch."
+        "effect": "Teaches the move Avalanche\/Volt Switch."
     },
     {
         "name": {
@@ -4933,7 +4933,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Stealth Rock/Struggle Bug/Fly."
+        "effect": "Teaches the move Stealth Rock\/Struggle Bug\/Fly."
     },
     {
         "name": {
@@ -4949,7 +4949,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Captivate/Bulldoze."
+        "effect": "Teaches the move Captivate\/Bulldoze."
     },
     {
         "name": {
@@ -4957,7 +4957,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Dark Pulse/Frost Breath."
+        "effect": "Teaches the move Dark Pulse\/Frost Breath."
     },
     {
         "name": {
@@ -4981,7 +4981,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Sleep Talk/Dragon Tail."
+        "effect": "Teaches the move Sleep Talk\/Dragon Tail."
     },
     {
         "name": {
@@ -4989,7 +4989,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Natural Gift/Work Up/Infestation."
+        "effect": "Teaches the move Natural Gift\/Work Up\/Infestation."
     },
     {
         "name": {
@@ -5029,7 +5029,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Pluck/Sleep Talk."
+        "effect": "Teaches the move Pluck\/Sleep Talk."
     },
     {
         "name": {
@@ -5077,7 +5077,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Rock Smash/Surf."
+        "effect": "Teaches the move Rock Smash\/Surf."
     },
     {
         "name": {
@@ -5109,7 +5109,7 @@
             "ja": ""
         },
         "category": "Machines",
-        "effect": "Teaches the move Power-Up Punch/Waterfall."
+        "effect": "Teaches the move Power-Up Punch\/Waterfall."
     },
     {
         "name": {
